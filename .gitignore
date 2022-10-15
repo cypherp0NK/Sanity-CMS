@@ -2,11 +2,11 @@
 
 # dependencies
 /node_modules
-/sanity_next_project
 
 
 # production
 /build
+/sanity_next_project
 
 # misc
 .DS_Store
